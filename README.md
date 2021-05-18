@@ -1,6 +1,8 @@
 # calculator
 Calculator app using HTML, CSS, and Javascript. An assignment from the Odin Project cirriculum. 
 
+[Take a look](https://cesaraluna.github.io/calculator/)
+
 ## Topics Covered
     organizing code with ES6 classes 
     syncing Javascript with User Interface
